@@ -2,6 +2,7 @@ name: bimcoordination
 favicon: null
 layout_spectrum: 0.3238
 typography_spectrum: 0.3992
+title: BIM Coordination
 cta:
   domain: null
   bucket: null
