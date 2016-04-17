@@ -1,7 +1,7 @@
 name: bimcoordination
 favicon: null
-layout_spectrum: 0.14679607492871583
-typography_spectrum: 0.8688049698248506
+layout_spectrum: 0.3238
+typography_spectrum: 0.3992
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#ffffff'
+    - '#979797'
+    - '#202020'
+    - '#7b716f'
+    - '#484848'
   brandStrength: 0.5933037407230586
   lightness: 0.2980476969387382
   saturation: 0.7282870297785848
