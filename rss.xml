@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bimcoordination]]></title>
-        <description><![CDATA[bimcoordination]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[BIM Coordination]]></title>
+        <description><![CDATA[BIM Coordination]]></description>
+        <link>https://thegrid.ai/bimcoordination/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 17:46:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Apr 2016 19:06:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bimcoordination/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Rooftop MEP Coordination]]></title>
-            <description><![CDATA[<article><h1>Rooftop MEP Coordination</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0cb65b0612168fcd8f79171e036bf22f20eee00d.jpg"></article>]]></description>
-            <link>undefined2fca3d0f-0662-4932-9bc9-72fd52692490/index.html</link>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/76c245ea-f7d4-41e8-a304-8dfc80d45147.jpg">]]></description>
+            <link>https://thegrid.ai/bimcoordination/2fca3d0f-0662-4932-9bc9-72fd52692490/index.html</link>
             <guid isPermaLink="false">2fca3d0f-0662-4932-9bc9-72fd52692490</guid>
-            <pubDate>Sun, 17 Apr 2016 17:46:15 GMT</pubDate>
+            <pubDate>Sun, 17 Apr 2016 19:06:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
