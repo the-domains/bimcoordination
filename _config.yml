@@ -1,4 +1,4 @@
-name: bimcoordination
+name: BIM coordination
 favicon: null
 layout_spectrum: 0.3238
 typography_spectrum: 0.3992
@@ -18,10 +18,10 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#808080'
-    - '#a7a7a7'
-    - '#505050'
-    - '#222222'
+    - '#5f5f5f'
+    - '#202020'
+    - '#afafaf'
+    - '#0807c5'
   brandStrength: 0.5933037407230586
   lightness: 0.2980476969387382
   saturation: 0.7282870297785848
