@@ -1,6 +1,6 @@
 name: BIM coordination
 favicon: null
-layout_spectrum: 0.65141
+layout_spectrum: 0.75255
 typography_spectrum: 0.40522
 title: BIM Coordination
 cta:
@@ -23,7 +23,7 @@ color:
     - '#afafaf'
     - '#0807c5'
   brandStrength: 0
-  lightness: 0.2980476969387382
+  lightness: 0.5
   saturation: 1
   rhythmicContrast: 0
 purpose: []
